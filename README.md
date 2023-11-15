@@ -5,4 +5,5 @@ El proyecto consta de un Arduino Nano, conectado a los tres sensores (temperatur
 
 Nuestro objetivo es hacer un producto accesible y práctico para que las personas que tengan mascotas puedan prevenir sus enfermedades y patologías mediante la prevención y el control de sus signos vitales.
 
-![HealthyPet_Diseño](https://github.com/Cross-Jota/HealthyPET---Codigo-Arduino-MITAppinventor/assets/150954474/5e925d39-a359-49f7-a6a4-b6539fae47bc)
+
+![HealthyPet_Diseño (1)](https://github.com/Cross-Jota/HealthyPET---Codigo-Arduino-MITAppinventor/assets/150954474/67806d56-2ca7-4ef2-b752-4e47075288ed)
