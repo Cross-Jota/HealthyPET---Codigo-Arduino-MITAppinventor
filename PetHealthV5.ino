@@ -84,24 +84,3 @@ void loop() {
   Serial.println();
   delay(2000);
 }
-
-  // if (irValue < 50000) {
-  //   Serial.print("el dedo no esta apoyado");
-  // }
-
-
-  // Serial.print("IR=");
-  // Serial.print(irValue);
-  // Serial.print(", BPM=");
-  // Serial.print(beatsPerMinute);
-  // Serial.print(", Avg BPM=");
-  // Serial.print(beatAvg);
-  // Serial.print(" TEMP:");
-  // Serial.print(temp);
-
-
-  // if (!mlx.begin(0x5A,1)) {
-  //   Serial.println("Sensor MLX906 no encontrado");
-  //   while (1);
-  // };
-
